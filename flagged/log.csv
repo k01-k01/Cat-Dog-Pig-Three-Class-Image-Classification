@@ -1,0 +1,2 @@
+image,output,flag,username,timestamp
+flagged\image\2e500c4c5d76bcf0f9dd\u3679037861159012389fm253fmtautoapp120fJPEG.webp,"{""label"": ""dog"", ""confidences"": [{""label"": ""dog"", ""confidence"": 0.457157701253891}, {""label"": ""cat"", ""confidence"": 0.33513858914375305}, {""label"": ""pig"", ""confidence"": 0.20770375430583954}]}",,,2024-11-30 13:47:06.516892
